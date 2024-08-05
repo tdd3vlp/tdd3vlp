@@ -3,8 +3,8 @@
 I'm a front-end developer, currently studying at @hexlet.
 
 You can easily reach me via:
-- telegram: *tdd0m*;
-- e-Mail: *tdd3vlp@gmail.com*
+- telegram: tdd0m;
+- e-mail: tdd3vlp@gmail.com
 
 
 <!--
