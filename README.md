@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm a Web-Developer, currently studying at @hexlet.
+You can easily reach me via:
+- Telegram: *tdd0m*;
+- E-Mail: *tdd3vlp@gmail.com*
+
 
 <!--
 **tdd3vlp/tdd3vlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
