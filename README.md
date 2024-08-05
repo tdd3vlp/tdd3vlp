@@ -1,9 +1,10 @@
 ## Hey there 👋
 
-I'm a Web-Developer, currently studying at @hexlet.
+I'm a front-end developer, currently studying at @hexlet.
+
 You can easily reach me via:
-- Telegram: *tdd0m*;
-- E-Mail: *tdd3vlp@gmail.com*
+- telegram: *tdd0m*;
+- e-Mail: *tdd3vlp@gmail.com*
 
 
 <!--
