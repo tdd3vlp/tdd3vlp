@@ -1,15 +1,15 @@
 ## Hey there 👋
 
-- 🔭 Currently studying at @hexlet.
+- 🔭 A former graduate of a linguistic university, currently studying web-development at @hexlet.
 - 🌱 Mastering JavaScript & Typescript, React.
 - 💭 Thinking of joining a friendly team of developers to make this world a better place one day.
   
 Yeah...
   
   ⚡ Fun fact:
-  - 🤘🏻 A metalcore lover & music consumer
-  - 👨🏼 Husband & father
-  - ⚽️ A Barça fan.
+  - 🤘🏻 A metalcore lover 
+  - 👨🏼 Husband, father
+  - ⚽️ A Barça fan
 
 
 ## Languages and Tools:
