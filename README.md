@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 - 🔭 A former graduate of a linguistic university, currently studying web-development at @hexlet.
-- 🌱 Mastering JavaScript & Typescript, React.
+- 🌱 Mastering JavaScript & Typescript, React & React Native.
 - 💭 Thinking of joining a friendly team of developers to make this world a better place one day.
   
 Yeah...
