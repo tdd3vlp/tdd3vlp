@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 - 🔭 A highly-motivated frotnend-developer.
-- 🌱 Mastering JavaScript, Typescript, React, React Native.
+- 🌱 Mastering JavaScript, Typescript, React, Next.js.
 - 📚 Currently reading 'Code complete' by Steve McConnell.
 - 💭 Thinking of joining a friendly team of developers to make this world a better place one day.
   
